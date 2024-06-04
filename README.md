@@ -8,9 +8,9 @@ You can preview the website live [here](tatkins20.github.io).
 
 ## Features
 About: A brief introduction about the owner, highlighting their expertise and career objectives.\
-Skills: Lists the technical skills and expertise of the owner, including programming languages, libraries/frameworks, and statistical analysis techniques.
+Skills: Lists the technical skills and expertise of the owner, including programming languages, libraries/frameworks, and statistical analysis techniques.\
 Projects: Showcases relevant projects completed by the owner, with links to their respective GitHub repositories or project documentation.\
-Contact: Provides various ways to get in touch with the owner, such as email or social media profiles.\
+Contact: Provides various ways to get in touch with the owner, such as email or social media profiles.
 
 ## Usage
 Clone the repository: git clone 
