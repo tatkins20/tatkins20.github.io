@@ -4,7 +4,7 @@
 This is a personal portfolio website template showcasing the skills, projects, and contact information of the owner. It is designed to provide a professional online presence for individuals in the fields of data science and software engineering.
 
 ## Preview
-You can preview the website live [here](tatkins20.github.io)
+You can preview the website live at the link provided on the sidebar.
 
 ## Features
 About: A brief introduction about the owner, highlighting their expertise and career objectives.\
